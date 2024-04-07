@@ -1,7 +1,6 @@
-# Projeto-Passwords
-Classificação, filtragem e ordenação de senhas baseado no arquivo passwords.csv disponibilizado pela disciplina.
 # ProjetoPasswords
 Projeto desenvolvido na disciplina de Laboratório de Estrutura de Dados (LEDA).
+Classificação, filtragem e ordenação de senhas baseado no arquivo passwords.csv disponibilizado pela disciplina.
 
   Projeto Passwords:
 
