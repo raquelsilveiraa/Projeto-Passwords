@@ -10,7 +10,7 @@ Classificação, filtragem e ordenação de senhas baseado no arquivo passwords.
 
   3. Deve ser inciado pela função "Classifica_passwords.java", que vai classificar as senhas. Em seguida, deve ser executado a "Transformacoes.java", que irá filtrar as senhas para "muito boa" e "boa" e vai transformar a formatação da data de "YYYY-MM-OD" para "DD/MM/YYYY".
      
-  4.Em seguida, deve ser executado a "Main_data", que vai ordenar o array a partir da data, para os casos "Melhor, Médio e Pior", com diferentes algoritmos de ordenação (Insertion Sort, Heap Sort, Merge Sort, Counting Sort, Selection Sort, Quick Sort, Quick Sort Mediana de Três e Bubble Sort).
+  4. Em seguida, deve ser executado a "Main_data", que vai ordenar o array a partir da data, para os casos "Melhor, Médio e Pior", com diferentes algoritmos de ordenação (Insertion Sort, Heap Sort, Merge Sort, Counting Sort, Selection Sort, Quick Sort, Quick Sort Mediana de Três e Bubble Sort).
   
   5. Após isso, , deve ser executado o "Main_data", localizado na pasta src , que vai ordenar o array a partir do data, para os casos "Melhor, Médio e Pior", com diferentes algoritmos de ordenação (Insertion Sort, Heap Sort, Merge Sort, Counting Sort, Selection Sort, Quick Sort, Quick Sort Mediana de Três e Bubble Sort). Por fim, deve ser executado a "Main_month", que vai ordenar o array a partir do mês, para os casos "Melhor, Médio e Pior"), com os diferentes algoritmos de ordenação (Insertion Sort, Heap Sort, Merge Sort, Counting Sort, Selection Sort, Quick Sort, Quick Sort Mediana de Três e Bubble Sort).
  
